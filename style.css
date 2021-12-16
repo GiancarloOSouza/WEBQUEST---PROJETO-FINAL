@@ -1,0 +1,29 @@
+body{
+    margin: 50px;
+}
+
+.titulo1{
+    text-align: center;
+    color:brown;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.texto{
+    font-weight: bolder;
+    width: 800px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.textoM{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Ografico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

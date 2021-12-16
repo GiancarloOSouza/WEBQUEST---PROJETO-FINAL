@@ -1,0 +1,123 @@
+h1
+{
+    text-align: center;
+    color: brown;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.nav-link
+{
+    color: rgb(252, 236, 207);
+}
+
+.navbar, .rodape
+{
+    background-color: rgb(0, 89, 0) !important;
+    padding: 30px;
+    color: rgb(250, 219, 161) !important;
+}
+
+.colorMenu
+{
+    color: rgb(255, 255, 255);
+}
+
+.container-xxl
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    height: 80%;
+    width: auto;
+}
+
+.child{
+    width: 650px;
+    padding: 10px;
+}
+
+.caixa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linha{
+    width: 85%;
+    height: 4px;
+    border: 3px solid rgb(103, 196, 111);
+}
+
+.contText
+{
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.imgSaude{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fakenews{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.imgS{
+    width: 60%;
+}
+.imgF{
+    width: 150%;
+}
+
+#question-2, #question-3, #question-4, #question-5, #question-6{
+    display: none;
+}
+
+.button:hover {
+    background-color: #059fdb !important;
+    color: white;
+}
+
+.button{
+    font-family: 'Barclaycard Co Lt',Tahoma,sans-serif;
+    margin: 10px 0 0 0;
+    border-radius: 3px;
+    background: #075da8;
+    font-size: 1em;
+    padding: 10px 15px;
+    color: white;
+    display: inline-block;
+}
+.cont
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(125, 252, 125);
+    width: 500px;
+    height: 400px;
+    background-color: rgb(209, 209, 209);
+}
+
+.textoQuiz
+{
+    text-align: center;
+}
